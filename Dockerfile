@@ -1,4 +1,4 @@
-FROM redis:3.2
+FROM ruby:2.2
 
 MAINTAINER Johan Andersson <Grokzen@gmail.com>
 
